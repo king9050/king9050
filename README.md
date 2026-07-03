@@ -26,11 +26,11 @@ GIS skills for water-resources and irrigation workflows, combining ArcGIS Pro, A
 
 A configurable Codex skill that monitors S&P 500 and Nasdaq-100 drawdowns and sends Chinese, English, or bilingual email alerts when a new threshold is crossed.
 
-### 🧰 [codex-skills](https://github.com/king9050/codex-skills)
+### 🧑‍🎨 [stick-boy-illustrations](https://github.com/king9050/stick-boy-illustrations)
 
-持续整理可复用的 Codex Skills，用于自动化、研究、工程分析和真实工作流程。
+一个面向多语言文章正文配图的 Codex Skill，使用手绘火柴男孩角色、纯白手绘风格和 300 ppi 输出，为中文、英文、日语、韩语、西班牙语等内容生成可直接落版的正文插图。
 
-A growing collection of reusable Codex skills for automation, research, engineering analysis, and practical workflows.
+A Codex skill for multilingual article-body illustrations, using a hand-drawn stick-boy character, clean white sketch aesthetics, and 300 ppi output to generate ready-to-use editorial visuals for Chinese, English, Japanese, Korean, Spanish, and more.
 
 ---
 
